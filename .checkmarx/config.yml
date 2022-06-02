@@ -1,5 +1,5 @@
 version: 1
-
+# adding another comment
 # checkmarx-specific related configuration
 # every value in this section is optional 
 checkmarx: 
